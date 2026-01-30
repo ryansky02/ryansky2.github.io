@@ -587,10 +587,10 @@ scene.add(planet);
 
 //WILL U BE MY BF?
 const ringTexts = [
-  'Galaxy of love From ...',//I love u Eza
-  "I love you",//Love U Fauzi
-  "♡Happy Girlfriend day♡",//I love u babe
-  "01/08/2025",//I love u ezaaa
+  'Will U Be my Bf?',//I love u Eza
+  "I love you Ezaa",//Love U Fauzi
+  "I love u fauzi",//I love u babe
+  "I always loving you",//I love u ezaaa
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
