@@ -585,12 +585,12 @@ planet.position.set(0, 0, 0);
 scene.add(planet);
 
 
-//Ganti Deskripsi Planet
+//WILL U BE MY BF?
 const ringTexts = [
-  'Galaxy of love From ...',//untuk deskripsi planet layer 1
-  "I love you",//untuk deskripsi planet layer 2
-  "♡Happy Girlfriend day♡",//untuk deskripsi planet layer 3
-  "01/08/2025",//untuk deskripsi planet layer 4
+  'Galaxy of love From ...',//I love u Eza
+  "I love you",//Love U Fauzi
+  "♡Happy Girlfriend day♡",//I love u babe
+  "01/08/2025",//I love u ezaaa
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
